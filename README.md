@@ -1,1 +1,1 @@
-# long_read_practical
+# Long Read
